@@ -4,7 +4,7 @@ T2TRG Interim Meeting on Data Modeling Topics
 
 ## Logistics
 
-**Time:** Thursday, June 19th, 16:00 UTC<br>
+**Time:** Thursday, June 19th, 15:00 UTC<br>
 (90 minutes)
 
 icalendar entry:TBD
@@ -13,7 +13,7 @@ This interim will happen online via meetecho, please see<br>
 TBD
 
 Local time in various locations:<br>
-<https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+2025-06+interim&iso=20250619T16&p1=1440&ah=1&am=30>
+<https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+2025-06+interim&iso=20250619T15&p1=1440&ah=1&am=30>
 
 There is no attendance fee and the meeting is open for everyone to
 join; an [IETF datatracker account](https://datatracker.ietf.org/) is
@@ -26,9 +26,9 @@ Please contact the [chairs][] with suggestions you have.
 
 | Time (UTC) | Who             | Subject                                                                           | Remarks           |
 |------------|-----------------|-----------------------------------------------------------------------------------|-------------------|
-|      16:00 | (chairs)        | **Intro**                                                                         |                   |
-|      16:10 | Niklas Meyer    | SDF-informed bridging between LwM2M and Matter                                    | [121matter][]     |
-|      17:20 | (chairs)        | **Wrapup**                                                                        |                   |
+|      15:00 | (chairs)        | **Intro**                                                                         |                   |
+|      15:10 | Niklas Meyer    | SDF-informed bridging between LwM2M and Matter                                    | [121matter][]     |
+|      16:20 | (chairs)        | **Wrapup**                                                                        |                   |
 
 [augmenting]: https://www.rfc-editor.org/rfc/rfc7950#section-4.2.8
 [sdfRef]: https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-18.html#name-sdfref
