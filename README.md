@@ -10,7 +10,7 @@ T2TRG Interim Meeting on Data Modeling Topics
 icalendar entry:TBD
 
 This interim will happen online via meetecho, please see<br>
-TBD
+<https://meetecho-interims.ietf.org/client/?group=7ddfb535-901c-46aa-a8b9-1264df08d5df>
 
 Local time in various locations:<br>
 <https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+2025-06+interim&iso=20250619T15&p1=1440&ah=1&am=30>
