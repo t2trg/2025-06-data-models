@@ -7,7 +7,7 @@ T2TRG Interim Meeting on Data Modeling Topics
 **Time:** Thursday, June 19th, 15:00 UTC<br>
 (90 minutes)
 
-icalendar entry:TBD
+icalendar entry: <https://datatracker.ietf.org/meeting/interim-2025-t2trg-04/sessions/t2trg.ics>
 
 This interim will happen online via meetecho, please see<br>
 <https://meetecho-interims.ietf.org/client/?group=7ddfb535-901c-46aa-a8b9-1264df08d5df>
