@@ -29,7 +29,7 @@ Please contact the [chairs][] with suggestions you have.
 |      15:00 | (chairs)        | **Intro**                                                                         |                   |
 |      15:10 | Niklas Meyer    | SDF-informed bridging between LwM2M and Matter (with demo)                        | [121matter][]     |
 |      15:40 | Carsten Bormann | Derivation and Instantiation: Two dimensions of model evolution                   |                   |
-|      16:00 |                 | TBD                                                                               |                   |
+|      16:00 |                 | flextime                                                                          |                   |
 |      16:20 | (chairs)        | **Wrapup**                                                                        |                   |
 
 [augmenting]: https://www.rfc-editor.org/rfc/rfc7950#section-4.2.8
